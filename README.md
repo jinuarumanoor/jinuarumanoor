@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working on **Python Django Projects**
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently researching and implementing new technologies on **Python Django** 
 
 - 👯 I’m looking to collaborate on **Python Django Projects**
 
-- 🤝 I’m looking for help with **Python Django**
+- 🤝 I’m looking for help with **Python Django** anbd stay connected in our community
 
 - 👨‍💻 All of my projects are available at [https://github.com/jinuarumanoor](https://github.com/jinuarumanoor)
 
