@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jinu P V</h1>
-<h3 align="center">A passionate Python Django developer from India</h3>
+<h3 align="center">A passionate Python Django/Odoo developer from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working on **Python Django Projects**
 
 - 🌱 I’m currently researching and implementing new technologies on **Python Django** 
 
-- 👯 I’m looking to collaborate on **Python Django Projects**
+- 👯 I’m looking to collaborate on **Python Django/Odoo Projects**
 
-- 🤝 I’m looking for help with **Python Django** anbd stay connected in our community
+- 🤝 I’m looking for help with **Python Django and Odoo** and stay connected in our community
 
 - 👨‍💻 All of my projects are available at [https://github.com/jinuarumanoor](https://github.com/jinuarumanoor)
 
