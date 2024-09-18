@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Python Django/Odoo developer from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🔭 I’m currently working on **Python Django Projects**
+- 🔭 I’m currently working on **Python Django/Odoo Projects**
 
-- 🌱 I’m currently researching and implementing new technologies on **Python Django** 
+- 🌱 I’m currently researching and implementing new technologies on **Python Django/Odoo** 
 
 - 👯 I’m looking to collaborate on **Python Django/Odoo Projects**
 
